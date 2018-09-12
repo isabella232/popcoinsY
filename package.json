@@ -12,8 +12,10 @@
     "license": "SEE LICENSE IN <your-license-filename>",
     "repository": "<fill-your-repository-here>",
     "dependencies": {
+        "buffer": "^5.2.1",
         "nativescript-theme-core": "~1.0.4",
         "nativescript-unit-test-runner": "^0.3.4",
+        "nativescript-websockets": "^1.5.2",
         "tns-core-modules": "~4.2.0"
     },
     "readme": "NativeScript Application",
