@@ -1,0 +1,12 @@
+spec/
+*.DS_Store
+.tags
+.idea/
+.vscode/
+
+node_modules/
+platforms/
+hooks/
+
+package-lock.json
+
